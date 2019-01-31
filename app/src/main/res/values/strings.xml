@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gestor De Discos</string>
+    <string name="title_item_detail"></string>
+    <string name="title_pelicula_detail">Detalle de disco</string>
+    <string name="descImg">Imagen del disco</string>
+    <string name="idLabel">Referencia </string>
+    <string name="titulo">Título del disco </string>
+    <string name="descripcion">Nombre del grupo </string>
+    <string name="imagenLabel">URL de la imagen </string>
+    <string name="anadirPelicula">Añadir</string>
+    <string name="borrarPelicula">Borrar</string>
+    <string name="moverPelicula">Mover</string>
+    <string name="altaPelicula">NUEVO DISCO</string>
+    <string name="errorObligatorio">Campo obligatorio</string>
+    <string name="valoracion">Valoración del disco</string>
+    <string name="duracion">Año de lanzamiento</string>
+
+
+</resources>
